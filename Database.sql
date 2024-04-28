@@ -78,6 +78,10 @@ CREATE TABLE schedules (
 
 INSERT INTO users VALUES (null,'admin','admin','adminexemple@gmail.com','admin',md5('admin'),'admin');
 INSERT INTO users VALUES (null,'Wassim','Ben Abdallah','wassimbenabdallah@gmail.com','wassim',md5('wassim'),'student');  
+INSERT INTO users VALUES (null,'Youssef','Gaddes','youssefgaddes@gmail.com','youssef',md5('youssef'),'student'); 
+INSERT INTO users VALUES (null,'Nadim','Chihaoui','nadimchihaoui@gmail.com','nadim',md5('nadim'),'student');  
 INSERT INTO users VALUES (null,'Moez','Ben Rkaya','moezrkaya@gmail.com','moez',md5('moez'),'teacher');  
+INSERT INTO users VALUES (null,'Amen','Bidani','amenbidani@gmail.com','amen',md5('amen'),'teacher');  
+INSERT INTO users VALUES (null,'Zakeya','Boumhal','zakeyaboumhal@gmail.com','zakeya',md5('zakeya'),'teacher'); 
 INSERT INTO users VALUES (null,'gomycode',null,'go_my_code@gmail.com','gmcode',md5('gmcode'),'entreprise');   
 INSERT INTO users VALUES (null,'Sami','Ghazouali','samighazouali@gmail.com','sami',md5('sami'),'department_head');    
